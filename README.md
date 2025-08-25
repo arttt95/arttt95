@@ -26,7 +26,7 @@ Sou apaixonado por aprender e criar soluções práticas. Minha jornada na progr
 
 ## 🚀 Projeto em Destaque (Prod)
 
-### 📱 QRV Total - App & Plataforma Web
+### 📱 QRV Total - App Mobile (Android Nativo) + Plataforma Web (Laravel 12 & DigitalOcean VPS)
 * **Descrição:** Sistema completo para gerenciamento e comunicação, com um aplicativo Android publicado e uma plataforma web de suporte.
 * **Tecnologias:** Kotlin, Firebase (Realtime Database, Rules), PHP, Laravel, Vue.js, Inertia.js.
 * **Status:** Em produção e disponível para o público.
