@@ -40,7 +40,7 @@ Sou apaixonado por aprender e criar soluções práticas. Minha jornada na progr
   Os projetos abaixo são uma demonstração conceitual básica acerca dos fundamentos e tecnologias essenciais que domino.
 </p>
 <p align="center">
-  Meu trabalho também inclui soluções mais complexas que, por questões de propriedade intelectual e confidencialidade, não podem ter o código-fonte exposto. Ficarei feliz em discutir as arquiteturas e os desafios de projetos mais complexos que tenho desenvolvido nos últimos anos.
+  Meu trabalho também inclui soluções mais complexas que, por questões de propriedade intelectual e confidencialidade, não podem ter o código-fonte exposto. Ficarei feliz em discutir as arquiteturas e os desafios de projetos mais robustos que tenho desenvolvido nos últimos anos.
 </p>
 
 | Projeto | Descrição | Tecnologias |
