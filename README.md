@@ -18,7 +18,7 @@
 
 Desenvolvedor de software com uma trajetória profissional única, vindo da carreira Militar e Policial. Essa experiência me proporcionou habilidades como **disciplina, resiliência e uma capacidade aguçada para resolver problemas sob pressão** — competências que aplico diariamente no desenvolvimento de projetos de tecnologia.
 
-Sou apaixonado por aprender e criar soluções práticas. Minha jornada na programação começou com automações em **Python** e evoluiu para o desenvolvimento **Full Stack** e **Mobile**, onde pude lançar um projeto completo, do back-end ao aplicativo na Play Store.
+Sou apaixonado por aprender e criar soluções práticas. Minha jornada na programação começou com automações em **Python** e evoluiu para o desenvolvimento **Full Stack** e **Mobile**, onde pude lançar um projeto completo, do **Back-End** ao **Aplicativo** na Play Store.
 
 🌐 **Idiomas:** Fluente em Inglês e Italiano, com conhecimentos básicos de Alemão e Japonês.
 
