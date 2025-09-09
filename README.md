@@ -37,7 +37,10 @@ Sou apaixonado por aprender e criar soluções práticas. Minha jornada na progr
 ## Portfólio de Habilidades Fundamentais
 
 <p align="center">
-  <i>Os projetos abaixo são uma demonstração de conceitos e tecnologias essenciais que domino. Meu trabalho também inclui soluções mais complexas que, por questões de propriedade intelectual e confidencialidade, não podem ter o código-fonte exposto. Ficarei feliz em discutir a arquitetura e os desafios desses projetos em uma conversa.</i>
+  Os projetos abaixo são uma demonstração conceitual básica acerca dos fundamentos e tecnologias essenciais que domino.
+</p>
+<p align="center">
+  Meu trabalho também inclui soluções mais complexas que, por questões de propriedade intelectual e confidencialidade, não podem ter o código-fonte exposto. Ficarei feliz em discutir as arquiteturas e os desafios de projetos mais complexos que tenho desenvolvido nos últimos anos.
 </p>
 
 | Projeto | Descrição | Tecnologias |
