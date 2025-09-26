@@ -26,9 +26,10 @@ Sou apaixonado por aprender e criar soluções práticas. Minha jornada na progr
 
 ## 🚀 Projeto em Destaque (Prod)
 
-### 📱 QRV Total - App Mobile Android Nativo (Consumindo API Restfull Laravel 12) + Plataforma Web Completa com Dashboard & Tools (Laravel 12 + Vue + Inertia + Tail)
-* **Descrição:** Sistema completo para gerenciamento e comunicação, com um aplicativo Android publicado e uma plataforma web de suporte.
-* **Tecnologias:** Kotlin, Firebase (Realtime Database, Rules), PHP, Laravel, Vue.js, Inertia.js.
+### 📱 QRV Total - App Mobile Android Nativo + Plataforma Web Completa com Dashboard & Tools
+* **Descrição:** Sistema completo para gerenciamento e compartilhamento de informação institucional, com um aplicativo Android publicado e uma plataforma web de suporte e controle.
+* **Stack:** App consumindo API Restfull Laravel 12, Plataforma Web implementada com Laravel 12 + Vue + Inertia + Tail & Database Relacional com Postgres.
+* **Infra:** Tanto API Rest quanto Web compartilham o mesmo VPS Server formando um monolito compacto e eficiente.
 * **Status:** Em produção e disponível para o público.
 * <a href="https://play.google.com/store/apps/details?id=com.arttt95.qrvtotal" target="_blank">**Ver na Play Store**</a> • <a href="https://qrvtotal.com.br/" target="_blank">**Acessar o Site**</a>
 
