@@ -36,13 +36,13 @@ Sou apaixonado por aprender e criar soluções práticas. Minha jornada na progr
 * **Status:** Em produção e disponível para o público.
 * <a href="https://play.google.com/store/apps/details?id=com.arttt95.qrvtotal" target="_blank">**Ver na Play Store**</a> • <a href="https://qrvtotal.com.br/" target="_blank">**Acessar o Site**</a>
 
-### 🎮 Kiui — Plataforma Gamer (site em produção, app em desenvolvimento)
-* **Descrição:** Produto focado na comunidade gamer, com plataforma web já no ar e aplicativo Android em fase final de desenvolvimento para lançamento na Play Store.
+### 🛒 Kiui — Plataforma colaborativa de inteligência de varejo (site em produção, app em Closed Testing)
+* **Descrição:** Plataforma de alinhamento entre varejo e consumidor que combina **crowdsourcing colaborativo**, mecânicas de **marketplace** e construção de um **dataset proprietário** como um dos ativos centrais do produto.
 * **Stack Backend:** Laravel 12 · PHP 8.4 · PostgreSQL · Sanctum · Horizon · Pulse · Resend.
 * **Stack Admin Web:** Blade · Tailwind (dark-first) · Alpine.js 3 · componentes Blade reusáveis.
-* **Stack Mobile (em construção):** Kotlin · **Jetpack Compose + Material 3** · MVVM · Hilt · Retrofit · Room (offline-first) · Firebase/Crashlytics.
+* **Stack Mobile:** Kotlin · **Jetpack Compose + Material 3** · MVVM · Hilt · Retrofit · Room (offline-first) · Firebase/Crashlytics.
 * **Infra & DevOps:** Docker · GitHub Actions · VPS.
-* **Status:** Site público em produção · app Android em desenvolvimento.
+* **Status:** Site público em produção · app Android em **Closed Testing no Google Play Console**.
 * <a href="https://kiui.com.br" target="_blank">**Acessar o Site**</a>
 
 ---
