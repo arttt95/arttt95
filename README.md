@@ -43,7 +43,7 @@ Sou apaixonado por aprender e criar soluções práticas. Minha jornada na progr
 * **Stack Mobile:** Kotlin · **Jetpack Compose + Material 3** · MVVM · Hilt · Retrofit · Room (offline-first) · Firebase/Crashlytics.
 * **Infra & DevOps:** Docker · GitHub Actions · VPS.
 * **Status:** Site público em produção · app Android em **Closed Testing no Google Play Console**.
-* <a href="https://kiui.com.br" target="_blank">**Acessar o Site**</a>
+* <a href="https://kiuiapp.com.br" target="_blank">**Acessar o Site**</a>
 
 ---
 
